@@ -209,9 +209,10 @@ pre {
 <body>
 
 <section class='container'>
-          <hgroup>
-            <h1>###Welcome to your CakePHP application on OpenShift(testing).</h1>
-          </hgroup>
+  <hgroup>
+    <h1>Welcome to your CakePHP application on OpenShift</h1>
+    <h2>Its a change in original code</h2>
+  </hgroup>
 
 
         <div class="row">
