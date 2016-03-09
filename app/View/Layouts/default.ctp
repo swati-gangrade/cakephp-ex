@@ -211,7 +211,7 @@ pre {
 <section class='container'>
   <hgroup>
     <h1>Welcome to your CakePHP application on OpenShift</h1>
-    <h2>#Its a change in original code (Testing)</h2>
+    <h2>#Its a change in original code (Testing) local template </h2>
   </hgroup>
 
 
