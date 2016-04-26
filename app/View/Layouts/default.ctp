@@ -210,7 +210,7 @@ pre {
 
 <section class='container'>
   <hgroup>
-    <h1>Hello World!!! CakePHP Example Application....</h1>
+    <h1>Hello World!!! CakePHP Example Application...</h1>
   </hgroup>
 
 
